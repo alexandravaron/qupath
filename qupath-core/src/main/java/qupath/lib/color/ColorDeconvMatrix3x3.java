@@ -1,6 +1,6 @@
 /*-
  * #%L
- * This file is part of QuPath.
+ * This file is part of QuPath. test test
  * %%
  * Copyright (C) 2014 - 2016 The Queen's University of Belfast, Northern Ireland
  * Contact: IP Management (ipmanagement@qub.ac.uk)
